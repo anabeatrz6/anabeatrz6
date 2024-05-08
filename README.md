@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+Boas vindas ao meu perfil!!
+- Estou estudando no alura
+- Desenvolvendo em javascript
+- Utilizando este espaço para me organizar e compartilhar meus projetos.
+- VOCÊ PODE ENTRAR EM CONTATO COMIGO:
+ 
+00001095372476sp@al.educacao.sp.gov.br
 <!--
 **anabeatrz6/anabeatrz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
